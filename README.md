@@ -125,9 +125,6 @@ For Windows:
 
 <img width="596" height="614" alt="image" src="https://github.com/user-attachments/assets/7f169adc-5e13-41e4-b700-41ed762642f2" />
 
-## LINUX COMMANDS
-
-<img width="997" height="548" alt="image" src="https://github.com/user-attachments/assets/cdba70ef-54c7-42f2-9894-801d7438ae0f" />
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
